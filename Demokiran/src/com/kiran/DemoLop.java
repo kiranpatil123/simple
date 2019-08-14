@@ -1,0 +1,10 @@
+package com.kiran;
+
+public class DemoLop {
+
+	public static void main(String[] args) {
+		System.out.println("hello");
+
+	}
+
+}
